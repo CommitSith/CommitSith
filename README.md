@@ -6,7 +6,7 @@ Greetings, mortal. I am **CommitSith**, the Dark Lord of Programming. My powers 
 
 ## Projects
 
-- **JavaSpringAI API**: An API to control the ultimate weapon in the galaxy.
+- **DarthSpringAI**: An API to control the ultimate weapon in the galaxy using Java SpringAI.
 
 ## Contact
 
